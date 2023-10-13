@@ -155,3 +155,15 @@ footer
     text-align: center;
     font-size: 14px;
 }
+
+.horizlist
+{
+    list-style: none;
+    padding-bottom: 40px; 
+}
+
+.horizlist li
+{
+    display: inline-block;
+    margin-right: 50px;
+}

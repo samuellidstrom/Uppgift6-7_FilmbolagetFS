@@ -39,19 +39,22 @@ p
 h1
 {
     color:aliceblue;
-    font-size: 3;
-    font-family:Georgia, 'Times New Roman', Times, serif
-    
+    font-size: 46px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 5px;    
 }
+
 h3{
     color: #222222;
+    font-size: 25px;
 }
 h4
 {
     color:aliceblue;
     text-align: center;
-    font-family:Georgia, 'Times New Roman', Times, serif
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    margin-top: -30px;
+    font-size: 20px;
 }
 
 li
@@ -88,7 +91,7 @@ footer
     padding-top: 2; 
 }
 
-h1, h2, h3, h5, h6
+h2, h3, h5, h6
 {
     font-family: 'Young Serif', serif;
     text-shadow: 4px 4px 150px 0px rgb(196, 26, 26);

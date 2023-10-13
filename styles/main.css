@@ -1,0 +1,160 @@
+
+body
+ {
+    margin-top: 0px;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left:  auto;
+    margin-right: auto;
+    background-color: #d7d2c5;
+    color: #232323;
+}
+
+
+
+header
+{
+    padding: 40px;
+    margin-top: -30px;
+    height: 120px;
+    width: 100%;
+    background-color: #b4cce1;
+    text-align:center;
+}
+
+.bannerbox
+{    
+    background-color: #171009;
+    position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+}
+
+
+
+p 
+{
+    text-align: left;
+    line-height: 1.5;
+}
+
+h1
+{
+    color:aliceblue;
+    font-size: 3;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
+h3{
+    color: #222222;
+}
+h4
+{
+    color:aliceblue;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
+
+li
+{
+    list-style-position:inside;
+    text-align: center;
+    color: #363636;
+    font-weight: bold;
+    line-height: 1.4;
+}
+
+.listcontainer
+{    
+    justify-content: flex;
+    content: center;
+    align-items: center;
+}
+
+a
+{
+    text-decoration: none;
+    color: rgb(4, 91, 168);
+}
+
+footer
+{
+    height: 50px;
+    width: 100%;
+    padding-top: 5px;
+    color: white;
+    background-color: #1e1d1c;
+    text-align: center;
+    line-height: 1.3;
+    padding-top: 2;
+    
+}
+
+h1, h2, h3, h5, h6
+{
+    font-family: 'Young Serif', serif;
+    text-shadow: 4px 4px 150px 0px rgb(196, 26, 26);
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    line-height: 0;
+}
+
+.plotbox
+{
+    border-radius: 10px;
+    padding: 20px;
+    width: 55%;
+    text-align: left;
+    border: 1px solid;
+    border-color: #464646;    
+    background-color: rgb(234, 230, 230);
+    box-shadow: 2px 3px 8px 0px rgb(40, 40, 40);
+    align-items: center;
+    box-shadow:#232323;    
+}
+
+.spec-text
+{
+    text-align: center;
+    font-weight: bold;
+    line-height: 2;
+}
+
+.preimere-box
+{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    padding: 10px;
+    width: 40%;
+    text-align: center;
+    border: 3px solid;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 3px;
+    font-size: 34px;
+    font-weight: bolder;
+    border-color: #FCCC15;    
+    box-shadow: 2px 3px 8px 0px rgb(40, 40, 40);
+    align-items: center;
+    box-shadow:#232323;   
+    background-color: #202018;
+    color: #FCCC15;
+}
+
+.standardmargins
+{    
+    position: relative;
+   margin-top: 50px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+}
+
+footer
+{
+    padding: auto;
+    text-align: center;
+    font-size: 14px;
+}
